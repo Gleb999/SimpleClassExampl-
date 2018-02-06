@@ -10,6 +10,27 @@ namespace SimpleClassExampl_
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("***** Fun with Class Types *****\n");
+
+            Car chuck = new Car();
+            chuck.PrintState();
+
+            Car mary = new Car("Mary");
+            mary.PrintState();
+
+            Car daisy = new Car("Daisy", 75);
+            daisy.PrintState();
+
+            MyClass mark = new MyClass();
+            mark.PrintState();
+
+            MyClass bob = new MyClass("Bob");
+            bob.PrintState();
+
+            Car max = new Car("Max", 22);
+            max.PrintState();
+
+            Console.ReadLine();
         }
     }
 }

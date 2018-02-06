@@ -1,0 +1,7 @@
+C:\Users\golihachev\Documents\GitHub\SimpleClassExampl-\SimpleClassExampl-\SimpleClassExampl-\obj\Debug\SimpleClassExampl-.csprojResolveAssemblyReference.cache
+C:\Users\golihachev\Documents\GitHub\SimpleClassExampl-\SimpleClassExampl-\SimpleClassExampl-\obj\Debug\SimpleClassExampl-.csproj.CoreCompileInputs.cache
+C:\Users\golihachev\Documents\GitHub\SimpleClassExampl-\SimpleClassExampl-\SimpleClassExampl-\bin\Debug\SimpleClassExampl-.exe.config
+C:\Users\golihachev\Documents\GitHub\SimpleClassExampl-\SimpleClassExampl-\SimpleClassExampl-\bin\Debug\SimpleClassExampl-.exe
+C:\Users\golihachev\Documents\GitHub\SimpleClassExampl-\SimpleClassExampl-\SimpleClassExampl-\bin\Debug\SimpleClassExampl-.pdb
+C:\Users\golihachev\Documents\GitHub\SimpleClassExampl-\SimpleClassExampl-\SimpleClassExampl-\obj\Debug\SimpleClassExampl-.exe
+C:\Users\golihachev\Documents\GitHub\SimpleClassExampl-\SimpleClassExampl-\SimpleClassExampl-\obj\Debug\SimpleClassExampl-.pdb
