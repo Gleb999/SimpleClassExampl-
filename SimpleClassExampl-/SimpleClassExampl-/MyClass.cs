@@ -11,27 +11,25 @@ namespace SimpleClassExampl_
         public string Name;
         public int Age;
 
-        public MyClass()
-        {
-            Name = "Mark";
-            Age = 19;
-        }
+        public MyClass() { }
 
-        public MyClass(string pn)
-        {
-            Name = pn;
-        }
+        public MyClass(string name)
+        : this  ("Artur"){ }
 
-        public MyClass(string pn, int cs)
-        {
-            Name = pn;
-            Age = cs;
+        public MyClass(int age)
+        : this (30) { }
 
+        public MyClass(string name, int age)
+        {
+            Age = age;
+            Name = name;
         }
 
         public void PrintState()
         {
             Console.WriteLine("{0} is going {1} MPH.", Name, Age);
         }
+
+
     }
 }
